@@ -1,5 +1,4 @@
 # Amazon_Vine_Analysis
-![aws](https://user-images.githubusercontent.com/36451701/143142055-c06b6b9d-5024-433b-a92e-8f1120170ab1.png)
 
 ## Project Overview:
 This project analyzes Amazon Vine program and determines if there is a bias toward favorable reviews from Vine members.
@@ -26,7 +25,7 @@ The analysis uses PySpark to perform the ETL process to extract the dataset, tra
   - PostgresSQL
   - pgAdmin 4
   - AWS
-  - Google Colab
+  - Google Collab
 
 ## Project Results:
 
